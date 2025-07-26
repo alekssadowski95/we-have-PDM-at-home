@@ -5,7 +5,7 @@ An open-source workflow for product data management, comprised of FreeCAD, Libre
 **Figure 1:** LibreOffice Calc spreadsheet for product data management of a circular saw manufacturer for an overview of all components and linked documents
 
 ## Version control infrastructure
-![pdm-version-control-subversion-visualsvn-server-tortoise-svn])pdm-version-control-subversion-visualsvn-server-tortoise-svn.png)
+![pdm-version-control-subversion-visualsvn-server-tortoise-svn](pdm-version-control-subversion-visualsvn-server-tortoise-svn.png)
 
 ## Getting started with PDM as a small manufacturer
 

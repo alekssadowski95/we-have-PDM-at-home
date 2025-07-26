@@ -6,6 +6,7 @@ An open-source workflow for product data management, comprised of FreeCAD, Libre
 
 ## Version control infrastructure
 ![pdm-version-control-subversion-visualsvn-server-tortoise-svn](pdm-version-control-subversion-visualsvn-server-tortoise-svn.png)
+**Figure 2:** Team members are assigned read/write access, with file locking and check-in/check-out to prevent conflicts. Version control uses unique revision numbers, avoiding manual file naming. Data is stored on a centralized server with RAID and UPS, with regular off-site backups for redundancy.
 
 ## Getting started with PDM as a small manufacturer
 

@@ -1,6 +1,8 @@
 # we-have-PDM-at-home
 An open-source workflow for product data management, comprised of FreeCAD, LibreOffice and subversion (VisualSVN Server and Tortoise SVN)
 
+![libreoffice calc pdm with component overview and linked documents](libreoffce-pdm.png)
+
 ## Getting started with PDM as a small manufacturer
 
 > PDM, or product data management, systems can feel like a big hassle for small manufacturers and many don't think its necessary.
